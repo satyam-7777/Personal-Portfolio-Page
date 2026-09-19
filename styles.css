@@ -176,6 +176,7 @@ body {
   display: flex;
   gap: 10px;
   text-decoration: none;
+  align-items: center;
 }
 #contact-section li a {
   text-decoration: none;
