@@ -4,11 +4,11 @@ A responsive personal portfolio page showcasing my introduction, technical skill
 
 ## Live Demo
 
-<https://github.com/satyam-7777/Personal-Portfolio-Page>
+<https://personal-portfolio-page-v9ft.onrender.com>
 
 ## GitHub Repository
 
-Add your GitHub repository link here.
+<https://github.com/satyam-7777/Personal-Portfolio-Page>
 
 ## Project Overview
 
